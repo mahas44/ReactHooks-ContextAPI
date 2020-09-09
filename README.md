@@ -1,6 +1,9 @@
 
 ### This project connected https://github.com/mahas44/.NetCoreWebAPI so if you want to see interface you must be run both projects
 
+don't forget the run this command first => npm install
+then you can start the app
+
 
 ## Available Scripts
 
