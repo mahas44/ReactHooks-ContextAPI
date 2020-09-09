@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### This project connected https://github.com/mahas44/.NetCoreWebAPI so if you want to see interface you must be run both projects
+
 
 ## Available Scripts
 
